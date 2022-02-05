@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://knihovna-prasek.cz/</loc>
+  <lastmod>2018-05-08T09:42:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/o-knihovne</loc>
+  <lastmod>2018-05-08T09:42:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/sluzby</loc>
+  <lastmod>2018-05-08T09:42:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/akce</loc>
+  <lastmod>2018-05-08T09:42:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/zajimavosti</loc>
+  <lastmod>2018-05-08T09:42:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/kontakt</loc>
+  <lastmod>2018-05-08T09:42:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/podekovani</loc>
+  <lastmod>2018-05-08T09:42:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/o-nas</loc>
+  <lastmod>2018-05-08T09:42:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://knihovna-prasek.cz/static/images/cenik.pdf</loc>
+  <lastmod>2018-04-30T15:04:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,5 @@
+# robots.txt generated at http://www.toolsiseek.com
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://knihovna-prasek.cz/sitemap.xml

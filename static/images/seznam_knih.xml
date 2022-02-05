@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<author>
+			<!-- jmeno autora -->
+			<first_name>Markus</first_name>
+			<!-- prijmeni autora -->
+			<last_name>Heitz</last_name>
+		</author>
+		<!-- jmeno knihy -->
+		<name>Trpaslící</name>
+		<!-- zanr -->
+		<genre>Fantasy</genre>
+		<!-- rok vydani v cz -->
+		<publication_year_cz>2005</publication_year_cz>
+		<!-- rok vydaní v originale -->
+		<publication_year_or>2003</publication_year_or>
+		<!-- datum vlozeni ve formatu RRRR MM.DD -->
+		<date_insert>2015 02.02</date_insert>
+		<!-- oznaceni fondu (Chlad, Staly, Pujceno) -->
+		<fond>Chlad</fond>
+		<lent>NO</lent>
+    <recent>http://www.databazeknih.cz/knihy/trpaslici-trpaslici-384</recent>
+	</book>
+	<book>
+		<author>
+			<!-- jmeno autora -->
+			<first_name>Andrzej</first_name>
+			<!-- prijmeni autora -->
+			<last_name>Sapkowski</last_name>
+		</author>
+		<!-- jmeno knihy -->
+		<name>Zaklínač I. – Poslední přání</name>
+		<!-- zanr -->
+		<genre>Fantasy</genre>
+		<!-- rok vydani v cz -->
+		<publication_year_cz>1999</publication_year_cz>
+		<!-- rok vydaní v originale -->
+		<publication_year_or>1997</publication_year_or>
+		<!-- datum vlozeni ve formatu RRRR MM.DD -->
+		<date_insert>2015 02.02</date_insert>
+		<!-- oznaceni fondu (Chlad, Staly, Pujceno) -->
+		<fond>Chlad</fond>
+		<lent>NO</lent>
+    <recent>http://www.databazeknih.cz/knihy/zaklinac-i-posledni-prani-30396</recent>
+	</book>
+</books>

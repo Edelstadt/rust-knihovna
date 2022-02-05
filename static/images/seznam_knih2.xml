@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Pytláci</name>
+  <genre>romány</genre>
+  <publication_year_cz>1993</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/pytlaci-205389</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Tři dcery</name>
+  <genre>povídky</genre>
+  <publication_year_cz>1993</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/tri-dcery-205392</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Selská pýcha</name>
+  <genre>romány</genre>
+  <publication_year_cz>1992</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/selska-pycha-204847</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Mlýny</name>
+  <genre>romány</genre>
+  <publication_year_cz>1992</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/mlyny-204839</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Selský chléb : [Povídky]</name>
+  <genre />
+  <publication_year_cz>1990</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/selsky-chleb-204849</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Na gruntech u Zdobilů</name>
+  <genre />
+  <publication_year_cz>1990</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Barbora harfenice</name>
+  <genre>české romány</genre>
+  <publication_year_cz>2002</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Tvrdý osud</name>
+  <genre>české povídky</genre>
+  <publication_year_cz>2001</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>O smutku a štěstí</name>
+  <genre>české povídky</genre>
+  <publication_year_cz>2001</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Panstvo ze zámku</name>
+  <genre>české povídky</genre>
+  <publication_year_cz>2001</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Ze Žďárských hor</name>
+  <genre>české povídky</genre>
+  <publication_year_cz>2001</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Z květů a trní života</name>
+  <genre>české romány</genre>
+  <publication_year_cz>1995-2000</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/z-kvetu-i-trni-zivota-204873</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Sládkova rodina</name>
+  <genre>české romány</genre>
+  <publication_year_cz>2000</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/sladkova-rodina-205639</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Nezaviněno : povídky</name>
+  <genre>české povídky</genre>
+  <publication_year_cz>2000</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/nezavineno-205382</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Lidé a lesy</name>
+  <genre>české povídky</genre>
+  <publication_year_cz>2000</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Kletba na Martinci</name>
+  <genre>české romány</genre>
+  <publication_year_cz>2000</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>U Buřilů</name>
+  <genre>povídky</genre>
+  <publication_year_cz>1998</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Mamon : povídky o srdci kamenném</name>
+  <genre>povídky</genre>
+  <publication_year_cz>1998</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/mamon-povidky-o-srdci-kamennem-50523</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Forman Lacina</name>
+  <genre>povídky</genre>
+  <publication_year_cz>1998</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/forman-lacina-204836</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>U Rochlenů</name>
+  <genre>romány</genre>
+  <publication_year_cz>1997</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/u-rochleru-205634</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Sirotci</name>
+  <genre>povídky</genre>
+  <publication_year_cz>1996</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/sirotci-205394</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Z květů a trní života</name>
+  <genre>české romány</genre>
+  <publication_year_cz>1995-2000</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent>http://www.databazeknih.cz/knihy/z-kvetu-i-trni-zivota-204873</recent>
+</book>
+<book>
+  <author>
+    <first_name>Vlasta</first_name>
+    <last_name>Pittnerová</last_name>
+  </author>
+  <name>Na bídě a na statku</name>
+  <genre>výbory</genre>
+  <publication_year_cz>[1995]</publication_year_cz>
+  <publication_year_or />
+  <date_insert>2015 10.05</date_insert>
+  <fond>S</fond>
+  <lent />
+  <recent />
+</book>
+</books>
