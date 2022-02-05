@@ -22,9 +22,11 @@ build:
 	cp target/x86_64-unknown-linux-musl/release/rust-knihovna .
 	#upx --brute ${BIN_PATH}
 
-upload:
-
-	rsync -avz --exclude=".*" --delete -e "ssh knihovna" ${BASEDIR}/ ${DESTINATIONDIR}
+upload: build
+	git commit -am "init"
+	git push
+	ssh knihovna "cd /srv/app/rust-knihovna && git pull && supervisorctl restart rust-knihovna"
+	#rsync -avz --exclude=".*" --delete -e "ssh knihovna" ${BASEDIR}/ ${DESTINATIONDIR}
 
 
 clean:
