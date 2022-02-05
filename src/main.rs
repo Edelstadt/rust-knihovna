@@ -1,12 +1,11 @@
 use actix_files as fs;
+use actix_files::NamedFile;
 use actix_http::{body::Body, Response};
 use actix_web::dev::ServiceResponse;
 use actix_web::http::StatusCode;
 use actix_web::middleware::errhandlers::{ErrorHandlerResponse, ErrorHandlers};
-use actix_web::{error, middleware, web, App, Error, HttpRequest, HttpResponse, HttpServer, Result};
-use actix_files::NamedFile;
+use actix_web::{error, middleware, web, App, Error, HttpResponse, HttpServer, Result};
 use tera::Tera;
-use std::path::PathBuf;
 
 async fn index(tmpl: web::Data<tera::Tera>) -> Result<HttpResponse, Error> {
     let s = tmpl

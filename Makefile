@@ -11,18 +11,15 @@ DESTINATIONDIR=/srv/app/
 DESTINATIONUSER=app
 NAME=knihovna
 VERSION=0.3
+NODE_BIN_PATH=${BASEDIR}/node_modules/.bin/
+BIN_PATH=${BASEDIR}/target/release/rust-knihovna
 
 .PHONY: all build upload clean
 
 build:
-	stylus ${BASEDIR}/templates/css/style.styl -o ${BASEDIR}/templates/css/style.css
-	#cp ${BASEDIR}/css-dist/* ${BASEDIR}/templates/
-	find ${BASEDIR}/templates/css/ -type f -name '*.min.min.css' -delete
-	css-minify -d templates/css/
-	cp ${BASEDIR}/css-dist/* ${BASEDIR}/templates/css
-	find ${BASEDIR}/templates/css/ -type f -name '*.min.min.css' -delete
-	go build -o ${BASEDIR}/test ${BASEDIR}/main.go
-	upx --brute ${BASEDIR}/test
+	${NODE_BIN_PATH}stylus -c ${BASEDIR}/static/css/style.styl -o ${BASEDIR}/static/css/style.css
+	cargo build --release
+	upx --brute ${BIN_PATH}
 
 upload: build
 
