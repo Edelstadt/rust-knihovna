@@ -38,7 +38,8 @@ async fn main() -> std::io::Result<()> {
     env_logger::init();
 
     println!("Listening on: 127.0.0.1:8080, open browser and visit have a try!");
-
+    println!(concat!(env!("CARGO_MANIFEST_DIR"), "/templates/**/*"));
+    
     HttpServer::new(|| {
         let tera = Tera::new(concat!(env!("CARGO_MANIFEST_DIR"), "/templates/**/*")).unwrap();
 
