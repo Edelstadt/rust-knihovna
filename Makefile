@@ -18,7 +18,7 @@ BIN_PATH=${BASEDIR}/target/release/rust-knihovna
 
 build:
 	${NODE_BIN_PATH}stylus -c ${BASEDIR}/static/css/style.styl -o ${BASEDIR}/static/css/style.css
-	cargo build --release
+	RUSTFLAGS='--cfg procmacro2_semver_exempt' cargo build --release
 	#upx --brute ${BIN_PATH}
 
 upload:
