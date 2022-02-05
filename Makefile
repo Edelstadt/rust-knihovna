@@ -17,8 +17,8 @@ BIN_PATH=${BASEDIR}/target/release/rust-knihovna
 .PHONY: all build upload clean
 
 build:
-	${NODE_BIN_PATH}stylus -c ${BASEDIR}/static/css/style.styl -o ${BASEDIR}/static/css/style.css
-	cargo build --target x86_64-unknown-linux-musl --release
+	#${NODE_BIN_PATH}stylus -c ${BASEDIR}/static/css/style.styl -o ${BASEDIR}/static/css/style.css
+	RUSTFLAGS='-C link-arg=-s' cargo build --release --target x86_64-unknown-linux-musl
 	#upx --brute ${BIN_PATH}
 
 upload:
