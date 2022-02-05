@@ -21,7 +21,7 @@ build:
 	cargo build --release
 	upx --brute ${BIN_PATH}
 
-upload: build
+upload:
 
 	rsync -avz --exclude=".*" --delete -e "ssh knihovna" ${BASEDIR}/ ${DESTINATIONDIR}
 
