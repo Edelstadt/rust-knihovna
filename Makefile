@@ -26,7 +26,7 @@ upload: build
 	git commit -am "init"
 	git push
 	ssh knihovna "cd /srv/app/rust-knihovna && git pull && supervisorctl restart rust-knihovna"
-	ssh knihovna "cp --backup /srv/app/rust-knihovna/python.conf /srv/conf/nginx.d/python.conf.backup"
+	ssh knihovna "cp --backup /srv/app/rust-knihovna/python.conf /srv/conf/nginx.d/python.conf.backup && supervisorctl restart nginx"
 	#rsync -avz --exclude=".*" --delete -e "ssh knihovna" ${BASEDIR}/ ${DESTINATIONDIR}
 
 
