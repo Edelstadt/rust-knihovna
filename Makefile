@@ -23,7 +23,7 @@ build:
 	#upx --brute ${BIN_PATH}
 
 upload: build
-	git commit -am "init"
+	git commit -am "Updated: `date +'%Y-%m-%d %H:%M:%S'`"
 	git push
 	ssh knihovna "cd /srv/app/rust-knihovna && git pull && supervisorctl restart rust-knihovna"
 	ssh knihovna "cp /srv/app/rust-knihovna/python.conf /srv/conf/nginx.d/python.conf && supervisorctl restart nginx"
